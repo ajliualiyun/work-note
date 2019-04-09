@@ -10,5 +10,5 @@
 
      ![](<https://github.com/ajliualiyun/work-note/blob/master/maven/pic/question02.bmp>)
 
-     ​	![](<https://github.com/ajliualiyun/work-note/blob/master/maven/pic/question03.bmp>)
+     ​	![](<https://github.com/ajliualiyun/work-note/blob/master/maven/pic/question03.bmp.png>)
 
