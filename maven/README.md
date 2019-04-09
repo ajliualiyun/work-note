@@ -8,7 +8,7 @@
 
      问题解决：将有问题的依赖包所对应的本地路径不相关的文件删除即可解决每次都要从远程maven仓库中加载的问题：如下图
 
-     ![](E:\gitbook\maven\pic\question02.bmp)
+     ![](<https://github.com/ajliualiyun/work-note/blob/master/maven/pic/question02.bmp>)
 
-     ​	![](E:\gitbook\maven\pic\question03.bmp.png)
+     ​	![](<https://github.com/ajliualiyun/work-note/blob/master/maven/pic/question03.bmp>)
 
